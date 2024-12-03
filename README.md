@@ -27,7 +27,7 @@
  * And more -->
 
 # Functions
-At its core, it is a interpreter-compiler hybrid. This means that it is able to both interprete and compile code in a single package using separate commands in the Command Line. This, however, can result in many errors due to the overlapping interpreter and compiler. As such, you must make a `.catto.config` file to prevent these errors. See [configuration](#configuration).
+At its core, it is a interpreter-compiler hybrid. This means that it is able to both interprete and compile code in a single package using separate commands in the Command Line. This, however, can result in many errors due to the overlapping interpreter and compiler. As such, a `.catto.config` file is automatically created to prevent these errors. See [configuration](#configuration).
 
 #### Command Line Examples
 Interpreted:

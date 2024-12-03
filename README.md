@@ -13,7 +13,7 @@
 
 
 # About Catto-Lang
-**Catto-Lang** is an open-source programming language built with simplicity and ease of readable & memorization in mind. It excels at fast, reliable code, and resource efficiency. This makes it great at handling large amounts of data and information at once. Its [syntax](#syntax) is flexible, readable, and beginner-friendly. **Catto-Lang** offers abbreviated syntax for maximum flexibility and workflow performance, ease of understanding and memorization. 
+**Catto-Lang** is an open-source programming language built with simplicity and ease of readable & memorization in mind. It excels at fast, reliable code, and resource efficiency. This makes it great at handling large amounts of data and information at once. Its[syntax is flexible, readable, and beginner-friendly. **Catto-Lang** offers abbreviated syntax for maximum flexibility and workflow performance, ease of understanding and memorization. 
 
 <!-- 
 # Introduction
@@ -27,7 +27,7 @@
  * And more -->
 
 # Functions
-At its core, it is a interpreter-compiler hybrid. This means that it is able to both interprete and compile code in a single package using separate [Command Line commands](#command-line-examples). This, however, can result in many errors due to the overlapping interpreter and compiler. As such, you must make a `.catto.config` file to prevent these errors. See [configuration](#configuration).
+At its core, it is a interpreter-compiler hybrid. This means that it is able to both interprete and compile code in a single package using separate commands in the Command Line. This, however, can result in many errors due to the overlapping interpreter and compiler. As such, you must make a `.catto.config` file to prevent these errors. See [configuration](#configuration).
 
 #### Command Line Examples
 Interpreted:

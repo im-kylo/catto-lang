@@ -1,10 +1,10 @@
+<!-- 1. [Functions](#functions)
 # Index
 1. [Functions](#functions)
 1. [Command Line Examples](#command-line-examples)
 1. [Usage Cases](#usage-cases)
 1. [Configuration](#configuration)
 1. [Syntax](#syntax)
-<!-- 1. [Functions](#functions)
 1. [Functions](#functions)
 1. [Functions](#functions) -->
 
@@ -13,7 +13,7 @@
 
 
 # About Catto-Lang
-**Catto-Lang** is an open-source programming language built with simplicity and ease of readable & memorization in mind. It excels at fast, reliable code, and resource efficiency. This makes it great at handling large amounts of data and information at once. Its[syntax is flexible, readable, and beginner-friendly. **Catto-Lang** offers abbreviated syntax for maximum flexibility and workflow performance, ease of understanding and memorization. 
+**Catto-Lang** is an open-source programming language built with simplicity and ease of readable & memorization in mind. It excels at fast, reliable code, and resource efficiency. This makes it great at handling large amounts of data and information at once. Its syntax is flexible, readable, and beginner-friendly. **Catto-Lang** offers abbreviated syntax for maximum flexibility and workflow performance, ease of understanding and memorization. 
 
 <!-- 
 # Introduction
